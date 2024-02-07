@@ -1,0 +1,9 @@
+pandas
+docxtpl
+secure-smtplib
+tk
+openpyxl
+pydrive
+plotly
+plotly-express
+docx2pdf
